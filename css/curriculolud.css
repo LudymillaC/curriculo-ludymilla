@@ -1,0 +1,48 @@
+/*CSS reset*/
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    margin: 0;
+    background-color: #a4beff ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.resumo1{
+    padding: 0% 6% 1% 6%;
+}
+
+main{
+    background-color:rgb(209, 157, 255);
+    
+}
+.foto1{
+    text-align: center;
+}
+
+p{
+    font-family: 'Arial Narrow';
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+h3{
+    text-align: center;
+    
+}
+
+h4{}
+
+
+article{}
+
+section{}
